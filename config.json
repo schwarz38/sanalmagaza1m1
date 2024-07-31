@@ -1,0 +1,27 @@
+{
+  "token": "",
+  "username": "user",
+  "password": "pass",
+  "port": "3000",
+  "clientId": "1268162111889215488",
+  "guildId": "1155147024744845333",
+  "globalDeploy": false,
+  "status": "Made By Schwarz 🔥",
+  "website": "https://www.itemsatis.com/p/TRshop",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Made By Schwarz 🔥",
+  "genChannel": "1259832599224782859",
+  "premiumChannel": "1259835681119932417",
+  "genCooldown": "500",
+  "premiumCooldown": "300",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
